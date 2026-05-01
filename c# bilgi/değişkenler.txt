@@ -1,0 +1,12 @@
+int=sayılar
+
+doubl=ondalık sayılar
+
+string=metin :
+
+mesela; string ad = "isim"
+
+bool=doğru veya yanlış
+
+
+const koyarsak kod satırının başına depişkenin değieri asla değişmez

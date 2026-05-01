@@ -1,0 +1,26 @@
+for döngüsü:
+x:başlangıç
+y:bitiş:
+z:artış
+
+int i;
+
+FOR (i = 1; i <= 5; i++)
+{
+  console.writeline("c# ders");
+}
+
+bu döngü nün anlamı şudur; 
+i=1 ve i 5 tane olana kadar i den birer birer kopyasını üret
+
+i += 3 ün anlamı = i nin üzerine 3 ekleyerek git demektir	
+
+parse = string i sayıya çevirir	
+
+== bunun anlamı kalan eşit ise
+
+
++= bunu ise döngülerde toplama yapılırken kullanılır;
+örnek: totalvalue += i; nin anlamı döngüde toplam değer + i değeridir
+
+WHİLE ... olduğu müddetçe demektir
